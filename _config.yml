@@ -42,10 +42,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "kdelaro2@asu.edu"
-#  facebook: deanattali
- github: kdelaro2
+# facebook: deanattali
+  github: kdelaro2
 # twitter: daattali
- # patreon: DeanAttali
+# patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -62,7 +62,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0001-7633-7898
+  ORCID: "0000-0001-7633-7898"
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
