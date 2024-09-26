@@ -6,10 +6,12 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: PAF 514 Project Website 
+# Short description of your site
+description: This website is for a PAF 514 project 
 
 # Your name to show in the footer
-author: Some Person
+author: Kate De La Rosa
 
 # --- List of links in the navigation bar --- #
 
@@ -39,15 +41,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "kdelaro2@asu.edu"
+#  facebook: deanattali
+ github: kdelaro2
+# twitter: daattali
+ # patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: katedelarosa
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,7 +62,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0001-7633-7898
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -99,16 +101,22 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+#navbar-col: "#EAEAEA"
+navbar-col: "#7c6a0a"
+#navbar-text-col: "#404040"
+navbar-text-col: "#ffecd1"
+#navbar-border-col: "#DDDDDD"
+navbar-border-col: "#babd8d"
+#page-col: "#FFFFFF"
+page-col: "#babd8d"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+#footer-col: "#EAEAEA"
+footer-col: "#eb6424"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+#footer-link-col: "#404040"
+footer-link-col: "#fa9500"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
