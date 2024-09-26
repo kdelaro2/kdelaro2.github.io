@@ -6,9 +6,9 @@
 # --- Required options --- #
 
 # Name of website
-title: PAF 514 Project Website 
+title: PAF 514 Kate De La Rosa's Website 
 # Short description of your site
-description: This website is for a PAF 514 project 
+description: Project to practice web development 
 
 # Your name to show in the footer
 author: Kate De La Rosa
@@ -68,7 +68,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Project to practice web development 
 
 # --- General options --- #
 
